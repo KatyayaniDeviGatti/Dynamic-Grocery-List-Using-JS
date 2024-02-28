@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.bg-container{
+    background-color: #3a6781;
+    height: 100vh;
+    padding: 30px;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+    margin-bottom: 20px;
+}
+.list-container{
+    background-color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 6px;
+    width: 18rem;
+    margin-bottom: 10px;
+}
+.listitems{
+    padding: 5px;
+    font-family: "Roboto";
+}
+.labelElement{
+    padding-left: 5px;
+    color: white;
+    font-family: "Roboto";
+    padding-bottom: 10px;
+}
